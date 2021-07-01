@@ -11,7 +11,7 @@
   </parent>
 
   <artifactId>webapp</artifactId>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
   <name>webapp</name>
   <description>webapp.</description>
 
